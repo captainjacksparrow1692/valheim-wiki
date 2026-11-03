@@ -4,6 +4,7 @@ import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 import org.valheim.wiki.commands.CraftCommand;
+import org.valheim.wiki.commands.FoodCommand;
 import org.valheim.wiki.commands.SlashCommand;
 
 import java.io.IOException;
@@ -17,7 +18,7 @@ public class Main {
         try {
             token = Files.readString(Path.of("token.txt")).trim();
         } catch (IOException e) {
-            System.err.println("❌ Could not find the token.txt file with the bot token!");
+            System.err.println("Could not find the token.txt file with the bot token!");
             return;
         }
 
@@ -25,10 +26,12 @@ public class Main {
 
         // Создаем изолированные команды
         SlashCommand craftCommand = new CraftCommand(recipeService);
+        SlashCommand foodCommand = new FoodCommand(recipeService);
 
         // Настраиваем слушатель и регистрируем команды
         BotListener listener = new BotListener();
         listener.registerCommand(craftCommand);
+        listener.registerCommand(foodCommand);
 
         try {
             JDA jda = JDABuilder.createDefault(token)
@@ -39,7 +42,8 @@ public class Main {
 
             // Автоматически собираем данные для регистрации из классов команд
             List<net.dv8tion.jda.api.interactions.commands.build.SlashCommandData> commandDataList = List.of(
-                    craftCommand.getCommandData()
+                    craftCommand.getCommandData(),
+                    foodCommand.getCommandData()
             );
 
             jda.updateCommands().addCommands(commandDataList).queue();
