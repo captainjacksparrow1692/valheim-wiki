@@ -1,0 +1,16 @@
+{
+  "id": "stagbreaker",
+  "name": "Stagbreaker",
+  "type": "CLUB",
+  "biome": "Black Forest",
+  "aliases": ["stagbreaker", "Stagbreaker"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "leather", "amount": 2 },
+    { "ingredient_id":  "corewood", "amount": 20  },
+    { "ingredient_id":  "deer hide", "amount":  5}
+  ]
+}
