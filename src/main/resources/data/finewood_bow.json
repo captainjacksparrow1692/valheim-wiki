@@ -1,0 +1,17 @@
+{
+  "schema_version": 6,
+  "id": "bowfinewood",
+  "name": "Finewood Bow",
+  "type": "BOW",
+  "biome": "Meadows",
+  "aliases": ["BowFineWood", "bow"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 10 },
+    { "ingredient_id":  "corewood", "amount": 10  },
+    { "ingredient_id":  "deer hide", "amount":  2}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "id": "flint spear",
+  "name": "Flint Spear",
+  "type": "WEAPON",
+  "biome": "Meadows",
+  "aliases": ["Flint Spear", "spear"],
+  "crafting_station": {
+    "name": "workbench",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 5 },
+    { "ingredient_id": "flint", "amount": 10 },
+    { "ingredient_id": "leather", "amount": 2 }
+  ]
+}

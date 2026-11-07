@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "frostner",
+  "id": "maceSilver",
   "name": "Frostner",
-  "type": "WEAPON",
+  "type": "CLUB",
   "biome": "MOUNTAINS",
-  "aliases": ["фростнер", "молот"],
+  "aliases": ["frostner", "club"],
   "crafting_station": {
     "name": "Forge",
     "min_level": 3

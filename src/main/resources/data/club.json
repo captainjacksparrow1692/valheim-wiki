@@ -1,0 +1,15 @@
+{
+  "schema_version": 3,
+  "id": "club",
+  "name": "Club",
+  "type": "WEAPON",
+  "biome": "Meadows",
+  "aliases": ["club", "club"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 6 }
+  ]
+}

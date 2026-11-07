@@ -1,0 +1,17 @@
+{
+  "schema_version": 4,
+  "id": "knifeflint",
+  "name": "Flint knife",
+  "type": "WEAPON",
+  "biome": "Meadows",
+  "aliases": ["flint_knife", "knife"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 2 },
+    { "ingredient_id": "flint", "amount": 4 },
+    { "ingredient_id": "leather", "amount": 2 }
+  ]
+}

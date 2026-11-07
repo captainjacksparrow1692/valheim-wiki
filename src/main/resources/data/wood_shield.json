@@ -1,0 +1,17 @@
+{
+  "schema_version": 7,
+  "id": "shield",
+  "name": "Wood shield",
+  "type": "SHIELD",
+  "biome": "Meadows",
+  "aliases": ["shield", "shield"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 10 },
+    { "ingredient_id":  "resin", "amount": 4 },
+    { "ingredient_id":  "leather", "amount":  4}
+  ]
+}

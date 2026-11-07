@@ -1,0 +1,16 @@
+{
+  "schema_version": 5,
+  "id": "bow",
+  "name": "Crude Bow",
+  "type": "BOW",
+  "biome": "Meadows",
+  "aliases": ["crude bow", "bow"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 10 },
+    { "ingredient_id": "leather", "amount": 8 }
+  ]
+}
