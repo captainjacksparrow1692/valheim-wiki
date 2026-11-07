@@ -1,0 +1,16 @@
+{
+  "id": "BattleaxeCrystal",
+  "name": "Crystal Battle Axe",
+  "type": "AXE",
+  "biome": "Mountain",
+  "aliases": ["crystal axe", "crystal battle axe"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "ancient bark", "amount": 40 },
+    { "ingredient_id":  "silver", "amount": 30 },
+    { "ingredient_id":  "crystal", "amount": 10 }
+  ]
+}

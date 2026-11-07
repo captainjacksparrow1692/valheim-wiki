@@ -1,0 +1,16 @@
+{
+  "id": "AxeGold_FrostFire",
+  "name": "Frostfire Axe",
+  "type": "AXE",
+  "biome": "Deep North",
+  "aliases": ["frostfire axe", "frost fire axe"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "bloodgold", "amount": 20 },
+    { "ingredient_id":  "nord axe", "amount": 1 },
+    { "ingredient_id":  "frostfire essence", "amount": 1 }
+  ]
+}

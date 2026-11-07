@@ -1,0 +1,14 @@
+{
+  "id": "AxeGold",
+  "name": "Nord Axe",
+  "type": "AXE",
+  "biome": "Deep North",
+  "aliases": ["nord axe", "deep north axe"],
+  "crafting_station": {
+    "name": "frost foundry",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "nord axe", "amount": 1 },
+    { "ingredient_id":  "liquid frost", "amount": 5 }
+}

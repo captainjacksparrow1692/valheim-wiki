@@ -1,0 +1,16 @@
+{
+  "id": "AxeBerzerkr",
+  "name": "Berserkir Axes",
+  "type": "AXE",
+  "biome": "Ashland",
+  "aliases": ["berserk axes", "berserkir axes"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "charred bone", "amount": 15 },
+    { "ingredient_id":  "flametal", "amount": 24 },
+    { "ingredient_id":  "asksvin hide", "amount": 3 }
+  ]
+}

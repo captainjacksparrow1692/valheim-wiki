@@ -1,0 +1,16 @@
+{
+  "id": "AxeGold_BloodLightning",
+  "name": "Thunderblood Axe",
+  "type": "AXE",
+  "biome": "Deep North",
+  "aliases": ["thunderblood axe", "thunder blood axe"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "bloodgold", "amount": 20 },
+    { "ingredient_id":  "nord axe", "amount": 1 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 }
+  ]
+}

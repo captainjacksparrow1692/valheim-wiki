@@ -1,0 +1,17 @@
+{
+  "id": "AxeJotunBane",
+  "name": "Jotun Bane",
+  "type": "AXE",
+  "biome": "Mistland",
+  "aliases": ["poison axe", "jotun bane"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "yggdrasil wood", "amount": 5 },
+    { "ingredient_id":  "iron", "amount": 15 },
+    { "ingredient_id":  "bilebag", "amount": 3 },
+    { "ingredient_id":  "eitr", "amount":  10 }
+  ]
+}

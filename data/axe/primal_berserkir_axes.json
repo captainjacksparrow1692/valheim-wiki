@@ -1,0 +1,16 @@
+{
+  "id": "AxeBerzerkrNature",
+  "name": "Primal Berserkir Axes",
+  "type": "AXE",
+  "biome": "Ashland",
+  "aliases": ["primal berserk axes", "poison berserkir axes"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "berserkir axes", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 5 },
+    { "ingredient_id":  "jade", "amount": 1 }
+  ]
+}

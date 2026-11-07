@@ -1,0 +1,16 @@
+{
+  "id": "BattleaxeBlackmetal",
+  "name": "Black metal battleaxe",
+  "type": "AXE",
+  "biome": "Plains",
+  "aliases": ["blackmetal battleaxe", "black metal battle axe"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 10 },
+    { "ingredient_id":  "black metal", "amount": 30  },
+    { "ingredient_id":  "linen thread", "amount": 5}
+  ]
+}

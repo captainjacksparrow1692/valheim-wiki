@@ -1,0 +1,16 @@
+{
+  "id": "BattleaxeSkullSplittur",
+  "name": "Skull Splittur",
+  "type": "AXE",
+  "biome": "Mistland",
+  "aliases": ["skull splittur", "skull slitter"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "yggdrasil wood", "amount": 15 },
+    { "ingredient_id":  "iron", "amount": 30 },
+    { "ingredient_id":  "eitr", "amount":  10 }
+  ]
+}

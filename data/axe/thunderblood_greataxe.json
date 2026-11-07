@@ -1,0 +1,16 @@
+{
+  "id": "BattleaxeGold_BloodLightning",
+  "name": "Thunderblood Greataxe",
+  "type": "AXE",
+  "biome": "Deep North",
+  "aliases": ["thunderblood greataxe", "thunder blood great axe"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "bloodgold", "amount": 20 },
+    { "ingredient_id":  "nord greataxe", "amount": 1 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 }
+  ]
+}
