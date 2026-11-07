@@ -1,0 +1,15 @@
+{
+  "id": "antler_pickaxe",
+  "name": "Antler Pickaxe",
+  "type": "PICKAXE",
+  "biome": "Meadows",
+  "aliases": ["antler pickaxe", "Antler Pickaxe"],
+  "crafting_station": {
+    "name": "workbench",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 10 },
+    { "ingredient_id":  "hard antler", "amount": 1 }
+  ]
+}
