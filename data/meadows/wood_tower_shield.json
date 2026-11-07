@@ -1,0 +1,16 @@
+{
+  "schema_version": 8,
+  "id": "tower_shield",
+  "name": "Tower wood shield",
+  "type": "TOWER SHIELD",
+  "biome": "Meadows",
+  "aliases": ["tower wood shield", "wood tower shield"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 10 },
+    { "ingredient_id":  "leather", "amount":  4}
+  ]
+}
