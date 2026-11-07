@@ -11,4 +11,5 @@
   "recipe": [
     { "ingredient_id": "nord axe", "amount": 1 },
     { "ingredient_id":  "liquid frost", "amount": 5 }
+    ]
 }

@@ -3,7 +3,7 @@
   "name": "Thundering  Berserkir Axes",
   "type": "AXE",
   "biome": "Ashland",
-  "aliases": ["thunder berserik axes", "lightning berserkir axes"],
+  "aliases": ["thunder berserkir axes", "lightning berserkir axes"],
   "crafting_station": {
     "name": "black forge",
     "min_level": 4
