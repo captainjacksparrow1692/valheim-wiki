@@ -1,0 +1,16 @@
+{
+  "schema_version": 9,
+  "id": "stone_axe",
+  "name": "Stone axe",
+  "type": "Axe",
+  "biome": "Meadows",
+  "aliases": ["stone axe", "Stone axe"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 5 },
+    { "ingredient_id":  "stone", "amount": 4 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 10,
+  "id": "flint_axe",
+  "name": "Flint axe",
+  "type": "AXE",
+  "biome": "Meadows",
+  "aliases": ["Flint Axe", "flint axe"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 4 },
+    { "ingredient_id":  "flint", "amount": 6 }
+  ]
+}
