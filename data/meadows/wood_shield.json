@@ -4,7 +4,7 @@
   "name": "Wood shield",
   "type": "SHIELD",
   "biome": "Meadows",
-  "aliases": ["shield", "shield"],
+  "aliases": ["wooden shield", "wood shield"],
   "crafting_station": {
     "name": "Workbench",
     "min_level": 3

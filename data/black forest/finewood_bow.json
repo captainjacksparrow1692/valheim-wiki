@@ -4,7 +4,7 @@
   "name": "Finewood Bow",
   "type": "BOW",
   "biome": "Meadows",
-  "aliases": ["BowFineWood", "bow"],
+  "aliases": ["finebow", "finewoodbow"],
   "crafting_station": {
     "name": "Workbench",
     "min_level": 4

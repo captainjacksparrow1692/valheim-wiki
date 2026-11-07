@@ -4,7 +4,7 @@
   "name": "Frostner",
   "type": "CLUB",
   "biome": "MOUNTAINS",
-  "aliases": ["frostner", "club"],
+  "aliases": ["frostner", "maceSilver"],
   "crafting_station": {
     "name": "Forge",
     "min_level": 3

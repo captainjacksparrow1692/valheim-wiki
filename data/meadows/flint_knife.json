@@ -2,9 +2,9 @@
   "schema_version": 4,
   "id": "knifeflint",
   "name": "Flint knife",
-  "type": "WEAPON",
+  "type": "KNIFE",
   "biome": "Meadows",
-  "aliases": ["flint_knife", "knife"],
+  "aliases": ["flint knife", "knife flint"],
   "crafting_station": {
     "name": "Workbench",
     "min_level": 4

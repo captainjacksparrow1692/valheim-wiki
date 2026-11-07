@@ -4,7 +4,7 @@
   "name": "Flint Spear",
   "type": "WEAPON",
   "biome": "Meadows",
-  "aliases": ["Flint Spear", "spear"],
+  "aliases": ["Flint Spear", "spear flint"],
   "crafting_station": {
     "name": "workbench",
     "min_level": 4

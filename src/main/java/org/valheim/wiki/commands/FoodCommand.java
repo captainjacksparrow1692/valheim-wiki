@@ -22,7 +22,7 @@ public class FoodCommand implements SlashCommand{
     @Override
     public SlashCommandData getCommandData(){
         return Commands.slash(getName(), "Food Command")
-                .addOption(OptionType.STRING, "Food", "Food Name", true);
+                .addOption(OptionType.STRING, "food", "Food Name", true);
     }
 
     @Override

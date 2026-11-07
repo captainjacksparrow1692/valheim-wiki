@@ -4,7 +4,7 @@
   "name": "Crude Bow",
   "type": "BOW",
   "biome": "Meadows",
-  "aliases": ["crude bow", "bow"],
+  "aliases": ["crude bow", "crude"],
   "crafting_station": {
     "name": "Workbench",
     "min_level": 4
