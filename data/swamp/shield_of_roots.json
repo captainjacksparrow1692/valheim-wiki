@@ -1,0 +1,15 @@
+{
+  "id": "shield_of_roots",
+  "name": "Shield of Roots",
+  "type": "SHIELD",
+  "biome": "Swamp",
+  "aliases": ["roots shield", "shield of roots"],
+  "crafting_station": {
+    "name": "workbench",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 10 },
+    { "ingredient_id":  "writhan root", "amount": 1 }
+  ]
+}

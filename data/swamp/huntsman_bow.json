@@ -1,0 +1,17 @@
+{
+  "id": "huntsman_bow",
+  "name": "Huntsman Bow",
+  "type": "BOW",
+  "biome": "Swamp",
+  "aliases": ["iron bow", "huntsman bow"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 10 },
+    { "ingredient_id":  "iron", "amount": 20  },
+    { "ingredient_id":  "feather", "amount": 10 },
+    { "ingredient_id":  "deer hide", "amount":  2}
+  ]
+}

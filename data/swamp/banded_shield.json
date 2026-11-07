@@ -1,0 +1,15 @@
+{
+  "id": "banded_shield",
+  "name": "Banded Shield",
+  "type": "Shield",
+  "biome": "Swamp",
+  "aliases": ["iron shield", "banded shield"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 10 },
+    { "ingredient_id":  "iron", "amount": 8 }
+  ]
+}

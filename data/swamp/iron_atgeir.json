@@ -1,0 +1,16 @@
+{
+  "id": "iron_atgeir",
+  "name": "Iron Atgeir",
+  "type": "ATGEIR",
+  "biome": "Swamp",
+  "aliases": ["iron atgeir", "Iron Atgeir"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 10 },
+    { "ingredient_id":  "iron", "amount": 30  },
+    { "ingredient_id":  "leather", "amount":  2}
+  ]
+}

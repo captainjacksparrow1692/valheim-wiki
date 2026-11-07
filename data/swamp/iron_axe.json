@@ -1,0 +1,16 @@
+{
+  "id": "iron_axe",
+  "name": "Iron Axe",
+  "type": "AXE",
+  "biome": "Swamp",
+  "aliases": ["iron axe", "Iron Axe"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 4 },
+    { "ingredient_id":  "iron", "amount": 20  },
+    { "ingredient_id":  "leather", "amount":  2}
+  ]
+}

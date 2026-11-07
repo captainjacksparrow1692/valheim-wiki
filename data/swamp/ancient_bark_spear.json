@@ -1,0 +1,16 @@
+{
+  "id": "ancient_bark_spear",
+  "name": "Ancient Bark Spear",
+  "type": "SPEAR",
+  "biome": "Swamp",
+  "aliases": ["iron spear", "ancient bark spear"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "ancient bark", "amount": 10 },
+    { "ingredient_id":  "iron", "amount": 10 },
+    { "ingredient_id":  "troll hide", "amount": 4}
+  ]
+}

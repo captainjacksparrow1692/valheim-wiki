@@ -1,0 +1,15 @@
+{
+  "id": "iron_tower_shield",
+  "name": "Iron Tower Shield",
+  "type": "TOWER SHIELD",
+  "biome": "Swamp",
+  "aliases": ["iron axe", "Iron Axe"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 2
+  },
+  "recipe": [
+    { "ingredient_id": "finewood", "amount": 15 },
+    { "ingredient_id":  "iron", "amount": 10 }
+  ]
+}
