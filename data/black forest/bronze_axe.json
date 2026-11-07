@@ -1,0 +1,16 @@
+{
+  "id": "bronze_axe",
+  "name": "Bronze Axe",
+  "type": "AXE",
+  "biome": "Black Forest",
+  "aliases": ["bronze axe", "Bronze axe"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 4 },
+    { "ingredient_id":  "broze", "amount": 8  },
+    { "ingredient_id":  "leather", "amount":  2}
+  ]
+}

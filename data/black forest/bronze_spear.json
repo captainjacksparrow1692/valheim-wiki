@@ -1,0 +1,16 @@
+{
+  "id": "bronze_spear",
+  "name": "Bronze Spear",
+  "type": "SPEAR",
+  "biome": "Black Forest",
+  "aliases": ["bronze spear", "Bronze Spear"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 5 },
+    { "ingredient_id":  "broze", "amount": 6  },
+    { "ingredient_id":  "deer hide", "amount":  2}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bronze_buckler",
+  "name": "Bronze Buckler",
+  "type": "BUCKLER",
+  "biome": "Black Forest",
+  "aliases": ["bronze buckler", "Bronze Buckler"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 4 },
+    { "ingredient_id":  "broze", "amount": 10 }
+  ]
+}
