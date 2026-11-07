@@ -1,0 +1,17 @@
+{
+  "schema_version": 11,
+  "id": "early_axes",
+  "name": "Early Axes",
+  "type": "AXE",
+  "biome": "Meadows",
+  "aliases": ["Early axes", "early axes"],
+  "crafting_station": {
+    "name": "Workbench",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "wood", "amount": 4 },
+    { "ingredient_id":  "Curious axe head", "amount": 1 },
+    { "ingredient_id":  "Mysterious axe head", "amount": 1 }
+  ]
+}
