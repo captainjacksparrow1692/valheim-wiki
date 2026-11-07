@@ -44,18 +44,15 @@ public class RecipeService {
 
     private void parseJsonFile(File file) {
         try (FileInputStream inputStream = new FileInputStream(file)) {
-            // Читаем JSON в дерево узлов
             com.fasterxml.jackson.databind.JsonNode rootNode = objectMapper.readTree(inputStream);
 
             if (rootNode.isArray()) {
-                // Если это массив [...]
                 List<ItemRecipe> recipes = objectMapper.readValue(rootNode.traverse(), new TypeReference<List<ItemRecipe>>() {});
                 for (ItemRecipe recipe : recipes) {
                     registerRecipe(recipe);
                 }
                 System.out.println("✅ Загружен список из файла: " + file.getPath() + " (предметов: " + recipes.size() + ")");
             } else if (rootNode.isObject()) {
-                // Если это одиночный объект {...}
                 ItemRecipe recipe = objectMapper.treeToValue(rootNode, ItemRecipe.class);
                 registerRecipe(recipe);
                 System.out.println("✅ Загружен одиночный предмет: " + file.getPath() + " (" + recipe.name() + ")");
