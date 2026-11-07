@@ -7,7 +7,7 @@
   "aliases": ["Flint Spear", "spear flint"],
   "crafting_station": {
     "name": "workbench",
-    "min_level": 4
+    "min_level": 1
   },
   "recipe": [
     { "ingredient_id": "wood", "amount": 5 },

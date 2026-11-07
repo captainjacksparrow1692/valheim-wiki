@@ -7,7 +7,7 @@
   "aliases": ["club", "club"],
   "crafting_station": {
     "name": "Workbench",
-    "min_level": 4
+    "min_level": 1
   },
   "recipe": [
     { "ingredient_id": "wood", "amount": 6 }
