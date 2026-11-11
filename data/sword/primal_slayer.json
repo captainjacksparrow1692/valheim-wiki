@@ -1,0 +1,16 @@
+{
+  "id": "THSwordSlayerNature",
+  "name": "Primal Slayer",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["primal slayer", "nature slayer"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "slayer", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 15 },
+    { "ingredient_id":  "jade", "amount": 1 }
+  ]
+}

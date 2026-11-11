@@ -1,0 +1,16 @@
+{
+  "id": "THSwordGold_BloodLightning",
+  "name": "Thunderblood Greatsword",
+  "type": "SWORD",
+  "biome": "Deep North",
+  "aliases": ["thunderblood greatsword", "thunderblood greatsword"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nord greatsword", "amount": 1 },
+    { "ingredient_id":  "blood gold", "amount": 20 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 }
+  ]
+}

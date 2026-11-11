@@ -1,0 +1,16 @@
+{
+  "id": "SwordNiedhoggNature",
+  "name": "Nidhögg the Primal",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["nature sword", "primal sword"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nidhogg", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "jade", "amount": 1 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "THSwordSlayer",
+  "name": "Slayer",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["THSwordSlayer", "slayer"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "morgen sinew", "amount": 3 },
+    { "ingredient_id":  "flametal", "amount": 30 },
+    { "ingredient_id":  "asksvin hide", "amount": 5 }
+  ]
+}

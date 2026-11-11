@@ -1,0 +1,16 @@
+{
+  "id": "THSwordSlayerLightning",
+  "name": "Scourging Slayer",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["thunder slayer", "scourging slayer"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "slayer", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 15 },
+    { "ingredient_id":  "iolite", "amount": 1 }
+  ]
+}

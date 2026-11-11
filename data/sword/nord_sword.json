@@ -1,0 +1,15 @@
+{
+  "id": "SwordGold",
+  "name": "Nord Sword",
+  "type": "SWORD",
+  "biome": "Deep North",
+  "aliases": ["nord sword", "sword gold"],
+  "crafting_station": {
+    "name": "frost foundry",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "nord sword", "amount": 1 },
+    { "ingredient_id":  "liquid frost", "amount": 5 }
+  ]
+}

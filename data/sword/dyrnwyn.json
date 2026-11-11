@@ -1,0 +1,18 @@
+{
+  "id": "SwordDyrnwyn",
+  "name": "Dyrnwyn",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["flame sword", "dyrnwyn"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "DyrnwynHiltFragment", "amount": 1 },
+    { "ingredient_id": "DyrnwynBladeFragment", "amount": 1 },
+    { "ingredient_id": "DyrnwynTipFragment", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 20 },
+    { "ingredient_id":  "bloodstone", "amount": 1 }
+  ]
+}

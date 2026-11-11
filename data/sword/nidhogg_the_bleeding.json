@@ -1,0 +1,16 @@
+{
+  "id": "SwordNiedhoggBlood",
+  "name": "Nidhögg the Bleeding",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["nidhoggbleeding", "blood sword"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nidhogg", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "bloodstone", "amount": 1 }
+  ]
+}

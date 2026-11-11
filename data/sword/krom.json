@@ -1,0 +1,16 @@
+{
+  "id": "THSwordKrom",
+  "name": "Krom",
+  "type": "SWORD",
+  "biome": "Mistland",
+  "aliases": ["krom", "Krom"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "iron", "amount": 30 },
+    { "ingredient_id":  "bronze", "amount": 20 },
+    { "ingredient_id":  "scale hide", "amount": 5 }
+  ]
+}

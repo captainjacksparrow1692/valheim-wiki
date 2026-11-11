@@ -1,0 +1,16 @@
+{
+  "id": "SwordNiedhogg",
+  "name": "Nidhögg",
+  "type": "SWORD",
+  "biome": "Ashland",
+  "aliases": ["flametal sword", "ashland sword"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "charred bone", "amount": 3 },
+    { "ingredient_id":  "flametal", "amount": 12 },
+    { "ingredient_id":  "asksvin hide", "amount": 2 }
+  ]
+}
