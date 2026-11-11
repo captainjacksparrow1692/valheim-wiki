@@ -1,0 +1,17 @@
+{
+  "id": "SwordMistwalker",
+  "name": "Mistwalker",
+  "type": "SWORD",
+  "biome": "Mistland",
+  "aliases": ["mistwalker", "mistland sword"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "fine wood", "amount": 3 },
+    { "ingredient_id":  "iron", "amount": 15 },
+    { "ingredient_id":  "eitr", "amount": 10 },
+    { "ingredient_id":  "wisp", "amount": 3 }
+  ]
+}

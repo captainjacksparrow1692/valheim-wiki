@@ -1,0 +1,16 @@
+{
+  "id": "SwordBlackmetal",
+  "name": "Black Metal Sword",
+  "type": "SWORD",
+  "biome": "Plains",
+  "aliases": ["black metal sword", "black sword"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "fine wood", "amount": 2 },
+    { "ingredient_id":  "black metal", "amount": 20 },
+    { "ingredient_id":  "linen thread", "amount": 5 }
+  ]
+}
