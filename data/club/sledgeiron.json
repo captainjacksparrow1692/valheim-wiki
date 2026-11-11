@@ -12,6 +12,6 @@
     { "ingredient_id": "ancient bark", "amount": 10 },
     { "ingredient_id":  "iron", "amount": 30 },
     { "ingredient_id":  "ymir flesh", "amount": 4 },
-    { "ingredient_id":  "drugr elite trophy", "amount": 1 }
+    { "ingredient_id":  "draugr elite trophy", "amount": 1 }
   ]
 }
