@@ -1,0 +1,17 @@
+{
+  "id": "MaceEldner",
+  "name": "Flametal Mace",
+  "type": "CLUB",
+  "biome": "Ashland",
+  "aliases": ["flametal mace", "maceeldner"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "charred bone", "amount": 10 },
+    { "ingredient_id":  "flametal", "amount": 15 },
+    { "ingredient_id":  "sulfur", "amount": 5 },
+    { "ingredient_id":  "asksvin hide", "amount": 3 }
+  ]
+}

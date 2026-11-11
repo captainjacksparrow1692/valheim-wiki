@@ -1,0 +1,16 @@
+{
+  "id": "SledgeGold_BloodLightning",
+  "name": "Thunderblood  Sledge",
+  "type": "CLUB",
+  "biome": "Deep North",
+  "aliases": ["thunderblood  sledge", "nord thunderblood "],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nord sledge", "amount": 1 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 },
+    { "ingredient_id": "bloodgold", "amount": 20 }
+  ]
+}

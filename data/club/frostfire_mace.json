@@ -1,0 +1,16 @@
+{
+  "id": "MaceGold_FrostFire",
+  "name": "Frostfire Mace",
+  "type": "CLUB",
+  "biome": "Deep North",
+  "aliases": ["frostfire mace", "mace gold frostfire"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nord mace", "amount": 1 },
+    { "ingredient_id":  "bloodgold", "amount": 20 },
+    { "ingredient_id":  "frostfire essence", "amount": 1 }
+  ]
+}

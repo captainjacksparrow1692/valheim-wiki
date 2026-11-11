@@ -1,0 +1,16 @@
+{
+  "id": "SledgeGold_FrostFire",
+  "name": "Frostfire Sledge",
+  "type": "CLUB",
+  "biome": "Deep North",
+  "aliases": ["frostfire sledge", "nord frostfire"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nord sledge", "amount": 1 },
+    { "ingredient_id":  "frostfire essence", "amount": 1 },
+    { "ingredient_id": "bloodgold", "amount": 20 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MaceEldnerNature",
+  "name": "Klossen",
+  "type": "CLUB",
+  "biome": "Ashland",
+  "aliases": ["nature flametal mace", "klossen"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "flametal mace", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 8 },
+    { "ingredient_id":  "jade", "amount": 1 }
+  ]
+}

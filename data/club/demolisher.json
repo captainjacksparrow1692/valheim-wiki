@@ -1,0 +1,16 @@
+{
+  "id": "SledgeDemolisher",
+  "name": "Demolisher",
+  "type": "CLUB",
+  "biome": "Mistland",
+  "aliases": ["iron hammer", "sledgeiron"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "yggdrasil wood", "amount": 10 },
+    { "ingredient_id":  "iron", "amount": 20 },
+    { "ingredient_id":  "eitr", "amount": 10 }
+  ]
+}

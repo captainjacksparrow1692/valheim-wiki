@@ -1,0 +1,16 @@
+{
+  "id": "MaceGold_BloodLightning",
+  "name": "Thunderblood Mace",
+  "type": "CLUB",
+  "biome": "Deep North",
+  "aliases": ["thunderblood mace", "bloodlightning mace"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "nord mace", "amount": 1 },
+    { "ingredient_id":  "bloodgold", "amount": 20 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 }
+  ]
+}

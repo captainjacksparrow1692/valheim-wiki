@@ -1,0 +1,16 @@
+{
+  "id": "MaceEldnerBlood",
+  "name": "Bloodgeon",
+  "type": "CLUB",
+  "biome": "Ashland",
+  "aliases": ["blood flametal mace", "maceeldnerblood"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "flametal mace", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 8 },
+    { "ingredient_id":  "bloodstone", "amount": 1 }
+  ]
+}

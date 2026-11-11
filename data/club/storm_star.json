@@ -1,0 +1,16 @@
+{
+  "id": "MaceEldnerLightning",
+  "name": "Storm Star",
+  "type": "CLUB",
+  "biome": "Ashland",
+  "aliases": ["lightning flametal mace", "storm star"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "flametal mace", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 8 },
+    { "ingredient_id":  "iolite", "amount": 1 }
+  ]
+}

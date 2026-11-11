@@ -1,0 +1,15 @@
+{
+  "id": "SledgeGold",
+  "name": "Nord Sledge",
+  "type": "CLUB",
+  "biome": "Deep North",
+  "aliases": ["nord sledge", "sledgegold"],
+  "crafting_station": {
+    "name": "frost foudry",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "nord sledge", "amount": 1 },
+    { "ingredient_id":  "liquid frost", "amount": 5 }
+  ]
+}
