@@ -10,7 +10,7 @@
   },
   "recipe": [
     { "ingredient_id": "SpearGold", "amount": 1 },
-    { "ingredient_id":  "bloodGold", "amount": 6 },
+    { "ingredient_id":  "bloodGold", "amount": 20 },
     { "ingredient_id":  "thunderblood essence", "amount": 1 }
   ]
 }
