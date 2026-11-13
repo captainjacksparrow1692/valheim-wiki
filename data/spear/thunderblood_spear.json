@@ -1,0 +1,16 @@
+{
+  "id": "SpearGold_BloodLightning",
+  "name": "Thunderblood Spear",
+  "type": "SPEAR",
+  "biome": "Deep North",
+  "aliases": ["thunderblood spear", "bloodlightning spear"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "SpearGold", "amount": 1 },
+    { "ingredient_id":  "bloodGold", "amount": 6 },
+    { "ingredient_id":  "thunderblood essence", "amount": 1 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "SpearGold",
+  "name": "Nord Spear",
+  "type": "SPEAR",
+  "biome": "Deep North",
+  "aliases": ["nord spear", "spear gold"],
+  "crafting_station": {
+    "name": "frost soundry",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "nord spear", "amount": 1 },
+    { "ingredient_id":  "liquid frost", "amount": 5 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "SpearSplitnir",
+  "name": "Splitnir",
+  "type": "SPEAR",
+  "biome": "Ashland",
+  "aliases": ["flametal spear", "splitnir"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "ashwood", "amount": 10 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "asksvin hide", "amount": 2 },
+    { "ingredient_id":  "bonemaw tooth", "amount": 3 }
+  ]
+}

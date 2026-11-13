@@ -1,0 +1,16 @@
+{
+  "id": "SpearSplitnir_Lightning",
+  "name": "Splitnir the Storming",
+  "type": "SPEAR",
+  "biome": "Ashland",
+  "aliases": ["lightning spear", "thunder spear"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "splitnir", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "iolite", "amount": 1 }
+  ]
+}

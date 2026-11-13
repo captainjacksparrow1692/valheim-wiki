@@ -1,0 +1,16 @@
+{
+  "id": "SpearGold_FrostFire",
+  "name": "Frostfire Spear",
+  "type": "SPEAR",
+  "biome": "Deep North",
+  "aliases": ["bleeding spear", "splitnir the bleeding"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "SpearGold", "amount": 1 },
+    { "ingredient_id":  "bloodgold", "amount": 20 },
+    { "ingredient_id":  "frostfire essence", "amount": 1 }
+  ]
+}

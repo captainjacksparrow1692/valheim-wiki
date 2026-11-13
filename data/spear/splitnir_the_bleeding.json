@@ -1,0 +1,16 @@
+{
+  "id": "SpearSplitnir_Blood",
+  "name": "Splitnir the Bleeding",
+  "type": "SPEAR",
+  "biome": "Ashland",
+  "aliases": ["bleeding spear", "splitnir the bleeding"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "splitnir", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "bloodstone", "amount": 1 }
+  ]
+}

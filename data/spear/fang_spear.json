@@ -1,0 +1,17 @@
+{
+  "id": "SpearWolfFang",
+  "name": "Fang Spear",
+  "type": "SPEAR",
+  "biome": "Mountain",
+  "aliases": ["fang spear", "wolf spear"],
+  "crafting_station": {
+    "name": "forge",
+    "min_level": 3
+  },
+  "recipe": [
+    { "ingredient_id": "ancient bark", "amount": 10 },
+    { "ingredient_id":  "wolf fang", "amount": 4 },
+    { "ingredient_id":  "silver", "amount": 2 },
+    { "ingredient_id":  "leathers", "amount": 2 }
+  ]
+}

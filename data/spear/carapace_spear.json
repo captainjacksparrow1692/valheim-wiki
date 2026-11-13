@@ -1,0 +1,16 @@
+{
+  "id": "SpearCarapace",
+  "name": "Carapace Spear",
+  "type": "SPEAR",
+  "biome": "Mistland",
+  "aliases": ["seeker spear", "carapace spear"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 1
+  },
+  "recipe": [
+    { "ingredient_id": "yggdrasil wood", "amount": 10 },
+    { "ingredient_id":  "carapace", "amount": 4 },
+    { "ingredient_id":  "mandible", "amount": 2 }
+  ]
+}

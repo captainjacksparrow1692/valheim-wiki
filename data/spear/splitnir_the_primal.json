@@ -1,0 +1,16 @@
+{
+  "id": "SpearSplitnir_Nature",
+  "name": "Splitnir the Primnal",
+  "type": "SPEAR",
+  "biome": "Ashland",
+  "aliases": ["primal spear", "nature spear"],
+  "crafting_station": {
+    "name": "black forge",
+    "min_level": 4
+  },
+  "recipe": [
+    { "ingredient_id": "splitnir", "amount": 1 },
+    { "ingredient_id":  "flametal", "amount": 6 },
+    { "ingredient_id":  "jade", "amount": 1 }
+  ]
+}
